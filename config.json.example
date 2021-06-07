@@ -1,0 +1,7 @@
+{
+    "AWS_SERVER_PUBLIC_KEY" = "*****",
+    "AWS_SERVER_SECRET_KEY" = "*****",
+    "REGION_NAME" = "******",
+    "DEFAULT_OUTPUT_FORMAT" = "*****",
+    "STREAM_NAME" : "****"
+}
